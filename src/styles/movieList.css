@@ -1,0 +1,33 @@
+.content-col {
+	background-color: #e8e6e6;
+	text-align: left;
+	min-height: 640px;
+}
+
+.list-area {
+	background-color: #cac7c7;
+}
+
+.text-centered {
+	text-align: center;
+}
+
+.star-color {
+	color: #eda319;
+}
+
+.error-class {
+	text-align: center;
+    font-style: italic;
+    font-weight: 400;
+    color: red;
+    font-size: medium;
+}
+
+.bookmarked {
+	color: #3f62d5;
+}
+
+.add-watch-list {
+	cursor: pointer;
+}
