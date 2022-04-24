@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import '../styles/movieList.css';
-import { Table, Tooltip } from 'reactstrap';
+import { Table } from 'reactstrap';
 import classnames from 'classnames';
 
 class MovieList extends Component {
